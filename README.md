@@ -1,7 +1,7 @@
 
 
 ## Yi-Tsung #aj006600
-Hi, I'm Yi-Tsung, a student from National Taiwan University, 
+Hi, I'm Yi-Tsung.
 
 
 
