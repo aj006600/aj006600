@@ -1,5 +1,5 @@
 ## Yi-Tsung #aj006600
-Hi👋, I'm Yi-Tsung.
+Hi, I'm Yi-Tsung. 👋👋👋
 
 <!--
 **aj006600/aj006600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
